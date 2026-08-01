@@ -8,3 +8,8 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+// This is importan, it's how the app's desplayed
+
+// 3. PRs
+// 1. wtf is ^
+// 2. tailwind
