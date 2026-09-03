@@ -23,7 +23,7 @@ export default function Item({ defaultElement }) {
     if (inStore) {
       newElement.store = newElement.store.filter(e => e.ID !== item.ID)
       newElement.home.push(item)
-      setElement({ newElement })
+      setElement(newElement)
     } else {
       newElement.home = newElement.home.filter(e => e.ID !== item.ID)
       newElement.store.push(item)
@@ -109,7 +109,6 @@ function findElement(elementID, dataStructure) {
 }
 
 function objectsToComponents(arr, onSwitchFunc, isInStore) {
-  console.log("element.length: ", arr.length, "element[0].store: ", arr[0].ID, " ", arr[0].quantity)
   const components = []
   for (let i = 0; i < arr.length; i++) {
     const arrItem = arr[i];
