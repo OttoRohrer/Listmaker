@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="9.7499275"
-   height="16"
-   viewBox="0 0 9.7499275 16"
+   width="8.9999428"
+   height="15.25"
+   viewBox="0 0 8.9999428 15.25"
    fill="none"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Icon.svg"
+   sodipodi:docname="chevron_right.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,20 +23,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.625"
-     inkscape:cx="4.9230769"
-     inkscape:cy="8"
-     inkscape:window-width="896"
-     inkscape:window-height="245"
-     inkscape:window-x="221"
+     inkscape:zoom="18.585381"
+     inkscape:cx="4.8156129"
+     inkscape:cy="1.7755891"
+     inkscape:window-width="1512"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <path
-     d="M 1.75,14.25 8,8 1.75,1.75"
+     d="m 1.375,13.875 6.25,-6.25 -6.25,-6.25"
      stroke="#7000a3"
      stroke-width="3.5"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="path1" />
+     id="path1"
+     style="stroke-width:2.75;stroke-dasharray:none" />
 </svg>

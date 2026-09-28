@@ -1,4 +1,4 @@
-export const groups = [
+export let groups = [
   {
     name: "Apple Pie",
     quantity: 0,
@@ -40,7 +40,7 @@ export const groups = [
 ]
 
 
-export const items = [{
+export let items = [{
   name: "Dates",
   DD: 1.1,
   quantity: 3,

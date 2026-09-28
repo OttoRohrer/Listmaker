@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16"
-   height="9.7499275"
-   viewBox="0 0 16 9.7499275"
+   width="15.25"
+   height="8.9999428"
+   viewBox="0 0 15.25 8.9999428"
    fill="none"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Icon copy.svg"
+   sodipodi:docname="chevron_down.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="19.558392"
-     inkscape:cx="-1.0481434"
-     inkscape:cy="7.3625685"
+     inkscape:cx="-1.4060461"
+     inkscape:cy="7.0046658"
      inkscape:window-width="1296"
      inkscape:window-height="921"
      inkscape:window-x="221"
@@ -33,10 +33,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <path
-     d="M 1.75,1.75 8,7.9999998 14.25,1.75"
+     d="M 1.375,1.375 7.625,7.6249998 13.875,1.375"
      stroke="#7000a3"
      stroke-width="3.5"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="path1" />
+     id="path1"
+     style="stroke-width:2.75;stroke-dasharray:none" />
 </svg>
