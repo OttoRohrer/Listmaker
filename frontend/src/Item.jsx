@@ -49,7 +49,10 @@ export default function Item({ defaultElement }) {
           <div className='groupedText'>Get from store</div>
           <div className='line' />
         </div>
-        {/* It does feel like we need an ItemsInGroup component or something similar given that the code here and the code below is the same. The only job of this component is to render ItemInGroup or an empty message. */}
+        {/* 
+          It does feel like we need an ItemsInGroup component or something similar given that the code here and the code 
+          on line 63 below is the same. The only job of this component is to render ItemInGroups or an empty message.
+        */}
         {element.store.length > 0 ? element.store.map(e => <ItemInGroup key={e.ID} item={e} onSwitch={switchStoreAndHome} inStore={true} />) : <div className="placeholder">(Empty for now)</div>}
       </div>
         <div className='home'>
